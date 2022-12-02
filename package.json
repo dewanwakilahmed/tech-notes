@@ -1,0 +1,23 @@
+{
+  "name": "tech-notes",
+  "version": "1.0.0",
+  "description": "Tech Notes | MERN App",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dewanwakilahmed/tech-notes.git"
+  },
+  "keywords": [
+    "mern",
+    "webapp"
+  ],
+  "author": "dewanwakilahmed",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dewanwakilahmed/tech-notes/issues"
+  },
+  "homepage": "https://github.com/dewanwakilahmed/tech-notes#readme"
+}
